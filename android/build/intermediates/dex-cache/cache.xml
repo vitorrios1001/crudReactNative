@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vitor/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_21659027d62348a303b0adebeee9e78acc651285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_9f31bfe3fd9e7c35b76fbb9f18279802e1be2a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_c0d19b1c196b0b4aee2c571fb9e2c5c4e99bf943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d5450496c3ad3b89f55d1843980fb68b41e29b66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_4bb35250417792394aa74626e5571f9420504223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_dfab612462dac5d9cae332d3cae737ee04344a99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_c50810828cfd62002484642fecfe63dcd81047d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_ce3a1758a767919bc05ec777575b95dec78df0dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_cdab73dca7ac1de65a53947af519e51a82526d78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_b29641dfc02b1b08fe05eed849a3aa2b8aa82429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_cc0839be2219db022e1781be508b45b6da60c733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_ffd24f348bd01e2c45bbebadca8841c5400d8795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.3_d4a500dd9788feb2d558f99e01b42af046c09456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1b818ad2572258d05f32588ab4b68ad0b39b5f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_25d6799fc9a4d164ce3edc63e217527526c3bd99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6ec3ccebddef05c45567c88781b4eaacf52d1cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_d1a4c9bd797e1f01f90df3a847291d4c004168c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_02027986dc9f3b2c688600c81b417428d404c975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_2fdfff8755f98f158ca9d10ba7fc2b48f615bd5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_af42ee3071da78e88189890304dce8e9afeeda8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vitor/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/vitor/projetosDosGit/applicationFullStack/app/appApiNodeJS/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_7ca26ba04de7229f0bb91a7bd94a9d18a61d3f50.jar" />
+    </item>
+
+</items>
